@@ -33,8 +33,6 @@ namespace ConsoleApp1
                     Clear();
                     if (x == 38) x = 0;
                     else x++;
-
-
                 }
                 Console.SetCursorPosition(x, y);
                 Console.ForegroundColor = ConsoleColor.White;

@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\HomeAlone\HomeAlone\bin\Debug\HomeAlone.exe.config
+C:\Users\Lenovo\source\repos\HomeAlone\HomeAlone\bin\Debug\HomeAlone.exe
+C:\Users\Lenovo\source\repos\HomeAlone\HomeAlone\bin\Debug\HomeAlone.pdb
+C:\Users\Lenovo\source\repos\HomeAlone\HomeAlone\obj\Debug\HomeAlone.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\HomeAlone\HomeAlone\obj\Debug\HomeAlone.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\HomeAlone\HomeAlone\obj\Debug\HomeAlone.exe
+C:\Users\Lenovo\source\repos\HomeAlone\HomeAlone\obj\Debug\HomeAlone.pdb
