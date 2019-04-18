@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\work\2019\graphics2019\graphics2019\bin\Debug\graphics2019.exe.config
+C:\Users\Lenovo\Desktop\work\2019\graphics2019\graphics2019\bin\Debug\graphics2019.exe
+C:\Users\Lenovo\Desktop\work\2019\graphics2019\graphics2019\bin\Debug\graphics2019.pdb
+C:\Users\Lenovo\Desktop\work\2019\graphics2019\graphics2019\obj\Debug\graphics2019.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\work\2019\graphics2019\graphics2019\obj\Debug\graphics2019.Form1.resources
+C:\Users\Lenovo\Desktop\work\2019\graphics2019\graphics2019\obj\Debug\graphics2019.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\work\2019\graphics2019\graphics2019\obj\Debug\graphics2019.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\work\2019\graphics2019\graphics2019\obj\Debug\graphics2019.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\work\2019\graphics2019\graphics2019\obj\Debug\graphics2019.exe
+C:\Users\Lenovo\Desktop\work\2019\graphics2019\graphics2019\obj\Debug\graphics2019.pdb

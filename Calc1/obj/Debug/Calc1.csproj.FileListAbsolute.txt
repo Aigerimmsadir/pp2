@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\work\2019\pp2\Calc1\bin\Debug\Calc1.exe.config
+C:\Users\Lenovo\Desktop\work\2019\pp2\Calc1\bin\Debug\Calc1.exe
+C:\Users\Lenovo\Desktop\work\2019\pp2\Calc1\bin\Debug\Calc1.pdb
+C:\Users\Lenovo\Desktop\work\2019\pp2\Calc1\obj\Debug\Calc1.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\work\2019\pp2\Calc1\obj\Debug\Calc1.Form1.resources
+C:\Users\Lenovo\Desktop\work\2019\pp2\Calc1\obj\Debug\Calc1.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\work\2019\pp2\Calc1\obj\Debug\Calc1.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\work\2019\pp2\Calc1\obj\Debug\Calc1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\work\2019\pp2\Calc1\obj\Debug\Calc1.exe
+C:\Users\Lenovo\Desktop\work\2019\pp2\Calc1\obj\Debug\Calc1.pdb
